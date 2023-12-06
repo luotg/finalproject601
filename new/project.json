@@ -1,0 +1,23 @@
+{
+  "about": {
+    "title": "About Tiangang",
+    "imageSrc": "./images/tl.jpg",
+    "content": "I am an international student from China..."
+  },
+  "college": {
+    "title": "Life in China",
+    "content": "I have lived in China for 21 years. In school in China..."
+  },
+  "ucollege": {
+    "title": "Life in America",
+    "content": "I have been in the United States for 7 years and have studied at three universities here..."
+  },
+  "restaurant": {
+    "title": "Restaurant I Like",
+    "content": "I love foods. I recorded some delicious food and information about restaurants."
+  },
+  "place": {
+    "title": "Interesting Places",
+    "content": "In addition to food, I also have many interesting places to share with you..."
+  }
+}
